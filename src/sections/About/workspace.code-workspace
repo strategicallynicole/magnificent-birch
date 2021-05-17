@@ -1,0 +1,109 @@
+{
+	"folders": [
+		{
+			"path": "../../../../grommet"
+		},
+		{
+			"path": "../../.."
+		},
+		{
+			"path": "../../../../seeristcarbon"
+		},
+		{
+			"path": "../../../../strapseerist"
+		},
+		{
+			"path": "../../../../../Downloads/storybook-next"
+		},
+		{
+			"path": "../../../../components"
+		},
+		{
+			"path": "../../../../boogers"
+		},
+		{
+			"path": "../../../../design"
+		},
+		{
+			"path": "../../../../gatsby-tailwind-styled-components-storybook-starter"
+		},
+		{
+			"path": "../../../../gatsby-starter-henlo"
+		},
+		{
+			"path": "../../../../react-tailwind-storybook-example"
+		},
+		{
+			"path": "../../../../design-language-website"
+		},
+		{
+			"path": "../../../../assets"
+		},
+		{
+			"path": "../../../../shards"
+		},
+		{
+			"path": "../../../../chakra-ui"
+		},
+		{
+			"path": "../../../../systemseerist"
+		},
+		{
+			"path": "../../../../clarity"
+		},
+		{
+			"path": "../../../../infima"
+		},
+		{
+			"path": "../../../../seeristbrand"
+		},
+		{
+			"path": "../../../../precise-ui"
+		},
+		{
+			"path": "../../../../seerist"
+		},
+		{
+			"path": "../../../../thumbprint"
+		},
+		{
+			"path": "../../../../newblk"
+		},
+		{
+			"path": "../../../../gatsby-starter-redux-storybook"
+		},
+		{
+			"path": "../../../../gatsby-gitbook-starter"
+		},
+		{
+			"path": "../../../../wholenewworld"
+		},
+		{
+			"path": "../../../../carbon"
+		},
+		{
+			"path": "../../../../gatsby-starter-specimens"
+		},
+		{
+			"path": "../../../../carbon-website"
+		},
+		{
+			"path": "../../../../fresh"
+		},
+		{
+			"path": "../../../../storybook-next-ts-template"
+		},
+		{
+			"path": "../../../../gatsby-starter-storybook"
+		},
+		{
+			"path": "../../../../design-system"
+		},
+		{
+			"path": "../../../../blk"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
